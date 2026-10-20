@@ -1,0 +1,10 @@
+src/vba/**/*.bas text eol=lf
+src/vba/**/*.cls text eol=lf
+src/vba/**/*.frm text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.xlsm binary
+*.xlsx binary
+*.pdf binary
+*.bmp binary
+*.jpg binary

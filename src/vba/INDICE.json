@@ -1,0 +1,594 @@
+{
+  "encoding": "UTF-8",
+  "purpose": "Leitura e revisão; não é pacote de importação VBA",
+  "form_notice": "Arquivos .frm contêm somente o código extraído; não incluem descritor visual nem FRX. Formulários completos permanecem nos XLSM.",
+  "modules": [
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/EstaPastaDeTrabalho.cls",
+      "sha256": "3e26fabe9c188b2abe478860eff36aba151a79085667dae57acfc890a541e570",
+      "lines": 54,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/Planilha1.cls",
+      "sha256": "904a408fc5d0144a946fceea516279723bf1152db5a5ffdfee2e6d726f972366",
+      "lines": 8,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/Planilha2.cls",
+      "sha256": "7e976156299c6c1bb49ca584e958363365c5c15e24ec7acfc0da86074ebc5033",
+      "lines": 8,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/Módulo2.bas",
+      "sha256": "34482b9e51267b5d282621bb4af86798a98e5c88510c0f0bc7dfb4b3b9c88ba1",
+      "lines": 926,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/Planilha3.cls",
+      "sha256": "e0bbf2068623b6fe31d5a761a820dffa49f5e9442fb484ff3f1043190e225c8b",
+      "lines": 8,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/Módulo4.bas",
+      "sha256": "74cfb61de7a1fc2fb5d9ff21359c56274f43e979514eb9e9838f595541175438",
+      "lines": 2442,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/UserForm5.frm",
+      "sha256": "296a14d2571ed620c4b54e1ab6b525d377f884657d8dec230cd2569d40128962",
+      "lines": 46,
+      "form_code_only": true
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/Módulo1.bas",
+      "sha256": "938303f29ac1a516ac3394db20504082f89b890dc7dc5813c4ec9509d98007ab",
+      "lines": 136,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/Módulo3.bas",
+      "sha256": "daf051e1f5d13b71fd2910da8d11217b3d637569f5119a1e4d8dbd02c272abb8",
+      "lines": 410,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/UserForm1.frm",
+      "sha256": "ac7392c059933145c1984954f3a959b9ddff74d65cdb3083b67a63576a8be357",
+      "lines": 776,
+      "form_code_only": true
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/UserForm2.frm",
+      "sha256": "8faa9f73fa8c1c4121c20a56f3cf8ef4fc003cd9269b9697498e8d6764d08d7d",
+      "lines": 41,
+      "form_code_only": true
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/frmInstrucoes.frm",
+      "sha256": "d128be93cc459e6ae525053d1d27324b9dbe97c01544e83d88b973103107c07e",
+      "lines": 55,
+      "form_code_only": true
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/Módulo5.bas",
+      "sha256": "ac9783ef24f5edc75866e431a6a724c1e524709482e8d4905a6f39c16e45da1a",
+      "lines": 570,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/UserForm3.frm",
+      "sha256": "3121a1e1cdc2f94050bcfee1436410dfb48702e76d3ae533911ba5c242d61c25",
+      "lines": 13,
+      "form_code_only": true
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/modtemplate.bas",
+      "sha256": "f0a5bcf2cd05535ea5fdf4f7fc8331829e067f059c57dceb9d2cb745eee8361c",
+      "lines": 101,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/modpontoFocal.bas",
+      "sha256": "429ee095bac557220402920afcaacc176b4bfab8a7f89ce70da002590e8db3cb",
+      "lines": 962,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/modIndicePontoFocal.bas",
+      "sha256": "be1e9dde922687e4588c1630ff61ab3da09084ead1c9161cf4bcebd476e6d434",
+      "lines": 163,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/UserForm4.frm",
+      "sha256": "6aa1d6d85d84d162522b73c05408caccc60bf3dcc6ce3045eaa5b950116d0a79",
+      "lines": 8,
+      "form_code_only": true
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/UserForm6.frm",
+      "sha256": "714033dc9c7f54417a5aaf9236ebccd9d39dd28483de243edac06a75e1ea9dd5",
+      "lines": 152,
+      "form_code_only": true
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/frmCross.frm",
+      "sha256": "1d6eb1c065163500b89b29b3517db74b2dfb2d568d242e2ab8e6fdd59a0948da",
+      "lines": 821,
+      "form_code_only": true
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/cDatePickerManager.cls",
+      "sha256": "5621a4dffa41652253dc530f93734b693545bbcf2fb5a1af0527a22101ac3af7",
+      "lines": 4459,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/cDatePickerLabelHook.cls",
+      "sha256": "6b57972c10110f7809069e6e78b9a53c463df313eea1f9be79f07ccc96c9e849",
+      "lines": 1001,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/M_DatePicker.bas",
+      "sha256": "bd768bdb31ce78181f00a6f0f5e2d94cd56e0a907d60f66443a60aa7de42248c",
+      "lines": 16312,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/UF_DatePicker.frm",
+      "sha256": "4e9a60d24d5da2b727ecb8983be283c34fcb225fc5b84321477c6df33ba76852",
+      "lines": 14896,
+      "form_code_only": true
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/modCalendarioForm.bas",
+      "sha256": "5c87ea349260c643a0cb74909115a39c90a06dc68dccb4d2e88157b8cefc1c3e",
+      "lines": 22,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/Planilha4.cls",
+      "sha256": "080eca176da6fa2b448945946805fc4973209559ba18f6c0497f76b1fb1275ca",
+      "lines": 8,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/modCrossDocking.bas",
+      "sha256": "96f466eec55233a8516881147074f5da9bcee9022157facc7d7005127c5ff225",
+      "lines": 993,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/frmPaniColetas.frm",
+      "sha256": "d2010a3c239fdd96d6b1d8ac2b9485bc3b1936fcbe13db3038e8cd8d05c0d32e",
+      "lines": 1423,
+      "form_code_only": true
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/modPaniColetas.bas",
+      "sha256": "4469bf93adfb6e8b3526e72083687360bf8d5b1cbea641444fab6a9f53aa1d13",
+      "lines": 1252,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/Planilha5.cls",
+      "sha256": "936868c922ffad6a30441789f286ef557488af288b51402f87d792920bc2b0c7",
+      "lines": 8,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/frmBatatas.frm",
+      "sha256": "3eb0a29ca1bcfefd8083892bcc86831070de8f7c8b58abe0dd9746d93df951e4",
+      "lines": 399,
+      "form_code_only": true
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/modBatatas.bas",
+      "sha256": "1d51750498ed4b7ee9c42639915fd0bfcfd212edaa1219c583b3db25effe42dd",
+      "lines": 487,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/Planilha6.cls",
+      "sha256": "c0c3a51200a1c953413689736047993531716e55a981e7ccd29b353095cfc20f",
+      "lines": 8,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/criacao_prog_v5_6_testes.xlsm",
+      "file": "src/vba/gerador/modPortfolioPaths.bas",
+      "sha256": "a71f90705f059494c40c3c536944578c4cf8f20d06dfc22d91f4894f7b159720",
+      "lines": 40,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_consolidado.xlsm",
+      "file": "src/vba/consolidado/EstaPastaDeTrabalho.cls",
+      "sha256": "ae426ca31b45183a6c7e53e8888431248f64967ec507dcb34a04b4ee1c9e264a",
+      "lines": 99,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_consolidado.xlsm",
+      "file": "src/vba/consolidado/Planilha1.cls",
+      "sha256": "904a408fc5d0144a946fceea516279723bf1152db5a5ffdfee2e6d726f972366",
+      "lines": 8,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_consolidado.xlsm",
+      "file": "src/vba/consolidado/Módulo1.bas",
+      "sha256": "8b21a26bcdd5d925783fda613ca99e514d0f05163bb31d2623d4bfd79f3c1f45",
+      "lines": 1403,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_consolidado.xlsm",
+      "file": "src/vba/consolidado/UserForm1.frm",
+      "sha256": "d4c8dfcfe9ac80bb5dc807c0fd5556fe48d98552e3468c22be5360a0afad6c15",
+      "lines": 72,
+      "form_code_only": true
+    },
+    {
+      "workbook": "app/modelo_consolidado.xlsm",
+      "file": "src/vba/consolidado/Planilha3.cls",
+      "sha256": "e0bbf2068623b6fe31d5a761a820dffa49f5e9442fb484ff3f1043190e225c8b",
+      "lines": 8,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_consolidado.xlsm",
+      "file": "src/vba/consolidado/Módulo2.bas",
+      "sha256": "7f8f55778209cd127feb8c233e9e91aa298a3d6a098758e4d83e0bd7d3b85ba3",
+      "lines": 298,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_consolidado.xlsm",
+      "file": "src/vba/consolidado/modObservacoesDinamicas.bas",
+      "sha256": "4b6729f5c6681c6b7f905abfba138ace16177a3d6863eee7e034383732a380ca",
+      "lines": 254,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_consolidado.xlsm",
+      "file": "src/vba/consolidado/modPortfolioPaths.bas",
+      "sha256": "a71f90705f059494c40c3c536944578c4cf8f20d06dfc22d91f4894f7b159720",
+      "lines": 40,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_consolidado_OUTROS.xlsm",
+      "file": "src/vba/consolidado_outros/EstaPastaDeTrabalho.cls",
+      "sha256": "cd221ae5e3d0ad3208f6775bf297302c12f7697e5e5ae5b8a6983869f614709b",
+      "lines": 64,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_consolidado_OUTROS.xlsm",
+      "file": "src/vba/consolidado_outros/Planilha1.cls",
+      "sha256": "904a408fc5d0144a946fceea516279723bf1152db5a5ffdfee2e6d726f972366",
+      "lines": 8,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_consolidado_OUTROS.xlsm",
+      "file": "src/vba/consolidado_outros/Módulo1.bas",
+      "sha256": "18232a1e4dc672451911ff4d1b98e38fe94176a4e9d177249bd8ace4f7f6ce35",
+      "lines": 1412,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_consolidado_OUTROS.xlsm",
+      "file": "src/vba/consolidado_outros/UserForm1.frm",
+      "sha256": "98293e88b6e724c3ac8b36635a0231923675c8ae4b5c81398cd4aebdcbcc52d0",
+      "lines": 68,
+      "form_code_only": true
+    },
+    {
+      "workbook": "app/modelo_consolidado_OUTROS.xlsm",
+      "file": "src/vba/consolidado_outros/Planilha3.cls",
+      "sha256": "e0bbf2068623b6fe31d5a761a820dffa49f5e9442fb484ff3f1043190e225c8b",
+      "lines": 8,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_consolidado_OUTROS.xlsm",
+      "file": "src/vba/consolidado_outros/Módulo2.bas",
+      "sha256": "bb04e38fb7606c36c8f76a35e9acb18d972de7b84cf44adee4e8eee1e604c1e0",
+      "lines": 342,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_consolidado_OUTROS.xlsm",
+      "file": "src/vba/consolidado_outros/modCross.bas",
+      "sha256": "9a0415b89f8a7d92acceb7d9fa431c79c1b9b87275145a70ec8ed497747c4290",
+      "lines": 692,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_consolidado_OUTROS.xlsm",
+      "file": "src/vba/consolidado_outros/modExportar.bas",
+      "sha256": "1dda90cafe4688aacd8854337d31fe2888d128d5706e9ce943c1b3fe9c8d760b",
+      "lines": 64,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_consolidado_OUTROS.xlsm",
+      "file": "src/vba/consolidado_outros/modPaniColetas.bas",
+      "sha256": "e5d625a2217b4814b8236f429828777b6e1fe7a25381af39b13a8a906edcc637",
+      "lines": 388,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_consolidado_OUTROS.xlsm",
+      "file": "src/vba/consolidado_outros/modBatatas.bas",
+      "sha256": "19c4da345e37739dc8e5915c06707985c520d286ecdd12a3f53fbae84ec7e25c",
+      "lines": 322,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_consolidado_OUTROS.xlsm",
+      "file": "src/vba/consolidado_outros/modPortfolioPaths.bas",
+      "sha256": "a71f90705f059494c40c3c536944578c4cf8f20d06dfc22d91f4894f7b159720",
+      "lines": 40,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_template.xlsm",
+      "file": "src/vba/template_infolog/EstaPastaDeTrabalho.cls",
+      "sha256": "2f2220a8f9f01b3aee0defaa3c7da5c89e45e4525130d391c0d7c529fbdbfada",
+      "lines": 73,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_template.xlsm",
+      "file": "src/vba/template_infolog/Planilha2.cls",
+      "sha256": "7e976156299c6c1bb49ca584e958363365c5c15e24ec7acfc0da86074ebc5033",
+      "lines": 8,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_template.xlsm",
+      "file": "src/vba/template_infolog/Planilha1.cls",
+      "sha256": "904a408fc5d0144a946fceea516279723bf1152db5a5ffdfee2e6d726f972366",
+      "lines": 8,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_template.xlsm",
+      "file": "src/vba/template_infolog/modDadosExternos.bas",
+      "sha256": "ab4e3adfd1a464d8b6e0e13eea3d575ab7ad7c9b4ac88201ce94af650bb255db",
+      "lines": 221,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_template.xlsm",
+      "file": "src/vba/template_infolog/modAtivacao.bas",
+      "sha256": "1700e4d6b2372761f42036fc605e3be2ff08439d00a3b5b13c541c8a9bff8c66",
+      "lines": 45,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_template.xlsm",
+      "file": "src/vba/template_infolog/modControle.bas",
+      "sha256": "c29e98d4b006f0597631ea832644d162d6d51eeb85a750a228cc031ad8ec4913",
+      "lines": 6,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_template.xlsm",
+      "file": "src/vba/template_infolog/modAtivacao_Helper.bas",
+      "sha256": "ca89e37658dd0dd3b245cac97ceb61a4694d996a02e522a1b57a0eacf430cb90",
+      "lines": 222,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_template.xlsm",
+      "file": "src/vba/template_infolog/modFormatacao.bas",
+      "sha256": "3082252b5838ac11d829ee45923f564322186145cd0437b87364a005c37ca192",
+      "lines": 24,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_template.xlsm",
+      "file": "src/vba/template_infolog/modUX.bas",
+      "sha256": "67fa98ca9647c8c93db28dbd3f063fb915e51a779a632cd0384bfc25529c134c",
+      "lines": 28,
+      "form_code_only": false
+    },
+    {
+      "workbook": "app/modelo_template.xlsm",
+      "file": "src/vba/template_infolog/modPortfolioPaths.bas",
+      "sha256": "a71f90705f059494c40c3c536944578c4cf8f20d06dfc22d91f4894f7b159720",
+      "lines": 40,
+      "form_code_only": false
+    },
+    {
+      "workbook": "examples/expected-output/Base FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_consolidado/EstaPastaDeTrabalho.cls",
+      "sha256": "7b2589a86baea0940ce0799be57efa83677bb395182368dc963caec11a3c0b8b",
+      "lines": 52,
+      "form_code_only": false
+    },
+    {
+      "workbook": "examples/expected-output/Base FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_consolidado/Planilha1.cls",
+      "sha256": "904a408fc5d0144a946fceea516279723bf1152db5a5ffdfee2e6d726f972366",
+      "lines": 8,
+      "form_code_only": false
+    },
+    {
+      "workbook": "examples/expected-output/Base FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_consolidado/Módulo1.bas",
+      "sha256": "3c7acee572f1d78f1fcb07e23d9f2b3f2f11114b88ff95d9afdb28507753b83f",
+      "lines": 1399,
+      "form_code_only": false
+    },
+    {
+      "workbook": "examples/expected-output/Base FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_consolidado/UserForm1.frm",
+      "sha256": "2c4bd2a29d81e6920abc3054127b855b2a77c1680abdd07385bca411ca3729d0",
+      "lines": 72,
+      "form_code_only": true
+    },
+    {
+      "workbook": "examples/expected-output/Base FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_consolidado/Planilha3.cls",
+      "sha256": "e0bbf2068623b6fe31d5a761a820dffa49f5e9442fb484ff3f1043190e225c8b",
+      "lines": 8,
+      "form_code_only": false
+    },
+    {
+      "workbook": "examples/expected-output/Base FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_consolidado/Módulo2.bas",
+      "sha256": "7f8f55778209cd127feb8c233e9e91aa298a3d6a098758e4d83e0bd7d3b85ba3",
+      "lines": 298,
+      "form_code_only": false
+    },
+    {
+      "workbook": "examples/expected-output/Base FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_consolidado/modObservacoesDinamicas.bas",
+      "sha256": "4b6729f5c6681c6b7f905abfba138ace16177a3d6863eee7e034383732a380ca",
+      "lines": 254,
+      "form_code_only": false
+    },
+    {
+      "workbook": "examples/expected-output/Base FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_consolidado/modPortfolioPaths.bas",
+      "sha256": "a71f90705f059494c40c3c536944578c4cf8f20d06dfc22d91f4894f7b159720",
+      "lines": 40,
+      "form_code_only": false
+    },
+    {
+      "workbook": "examples/expected-output/Template FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_template/EstaPastaDeTrabalho.cls",
+      "sha256": "2f2220a8f9f01b3aee0defaa3c7da5c89e45e4525130d391c0d7c529fbdbfada",
+      "lines": 73,
+      "form_code_only": false
+    },
+    {
+      "workbook": "examples/expected-output/Template FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_template/Planilha2.cls",
+      "sha256": "7e976156299c6c1bb49ca584e958363365c5c15e24ec7acfc0da86074ebc5033",
+      "lines": 8,
+      "form_code_only": false
+    },
+    {
+      "workbook": "examples/expected-output/Template FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_template/Planilha1.cls",
+      "sha256": "904a408fc5d0144a946fceea516279723bf1152db5a5ffdfee2e6d726f972366",
+      "lines": 8,
+      "form_code_only": false
+    },
+    {
+      "workbook": "examples/expected-output/Template FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_template/modDadosExternos.bas",
+      "sha256": "ab4e3adfd1a464d8b6e0e13eea3d575ab7ad7c9b4ac88201ce94af650bb255db",
+      "lines": 221,
+      "form_code_only": false
+    },
+    {
+      "workbook": "examples/expected-output/Template FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_template/modAtivacao.bas",
+      "sha256": "1700e4d6b2372761f42036fc605e3be2ff08439d00a3b5b13c541c8a9bff8c66",
+      "lines": 45,
+      "form_code_only": false
+    },
+    {
+      "workbook": "examples/expected-output/Template FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_template/modControle.bas",
+      "sha256": "c29e98d4b006f0597631ea832644d162d6d51eeb85a750a228cc031ad8ec4913",
+      "lines": 6,
+      "form_code_only": false
+    },
+    {
+      "workbook": "examples/expected-output/Template FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_template/modAtivacao_Helper.bas",
+      "sha256": "ca89e37658dd0dd3b245cac97ceb61a4694d996a02e522a1b57a0eacf430cb90",
+      "lines": 222,
+      "form_code_only": false
+    },
+    {
+      "workbook": "examples/expected-output/Template FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_template/modFormatacao.bas",
+      "sha256": "3082252b5838ac11d829ee45923f564322186145cd0437b87364a005c37ca192",
+      "lines": 24,
+      "form_code_only": false
+    },
+    {
+      "workbook": "examples/expected-output/Template FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_template/modUX.bas",
+      "sha256": "67fa98ca9647c8c93db28dbd3f063fb915e51a779a632cd0384bfc25529c134c",
+      "lines": 28,
+      "form_code_only": false
+    },
+    {
+      "workbook": "examples/expected-output/Template FT - 01.10.26.xlsm",
+      "file": "src/vba/exemplo_template/modPortfolioPaths.bas",
+      "sha256": "a71f90705f059494c40c3c536944578c4cf8f20d06dfc22d91f4894f7b159720",
+      "lines": 40,
+      "form_code_only": false
+    }
+  ],
+  "workbook_aliases": [
+    {
+      "workbook": "app/backup modelo_consolidado/modelo_consolidado.xlsm",
+      "canonical": "app/modelo_consolidado.xlsm",
+      "source_differences_ignoring_form_GUID": [],
+      "native_form_binaries_not_compared": true
+    },
+    {
+      "workbook": "app/backup modelo_consolidado/modelo_consolidado_OUTROS.xlsm",
+      "canonical": "app/modelo_consolidado_OUTROS.xlsm",
+      "source_differences_ignoring_form_GUID": [],
+      "native_form_binaries_not_compared": true
+    },
+    {
+      "workbook": "app/Base FT - 01.10.26.xlsm",
+      "canonical": "app/modelo_consolidado.xlsm",
+      "source_differences_ignoring_form_GUID": [],
+      "native_form_binaries_not_compared": true
+    }
+  ]
+}

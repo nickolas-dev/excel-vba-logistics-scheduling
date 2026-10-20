@@ -1,0 +1,17 @@
+~$*
+/app/Base *.xlsm
+/app/Templates/**
+!/app/Templates/**/
+!/app/Templates/**/.gitkeep
+/app/Tbl_PontoFocal/**
+!/app/Tbl_PontoFocal/**/
+!/app/Tbl_PontoFocal/**/.gitkeep
+/app/Tbl_Prog_Testes/**
+!/app/Tbl_Prog_Testes/**/
+!/app/Tbl_Prog_Testes/**/.gitkeep
+/app/Tbl_Prog/**
+!/app/Tbl_Prog/**/
+!/app/Tbl_Prog/**/.gitkeep
+/app/Backup/**
+!/app/Backup/**/
+!/app/Backup/**/.gitkeep

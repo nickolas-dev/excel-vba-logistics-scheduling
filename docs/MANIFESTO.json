@@ -1,0 +1,520 @@
+{
+  "scope": "FT normal; sem tradução",
+  "index_initial_state": "Index: Chave, DataFaturamento; zero registros",
+  "macros_executed": false,
+  "original_files_preserved": true,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "dc454290424bf79147b9be86f0b7ea28c2faf06d8e8eae8da2211ecfbe9e7870"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "7313ecf9940e7971a8f0edc1bc5db2f5318f0ef7e681ad96181fbfafbd44d336"
+    },
+    {
+      "path": "app/arquivos_criacao_prog/Preliminar FT normal - Portfolio ficticio.pdf",
+      "sha256": "61b28fba87774c49104cf83eff3e48031a870c24f85b948281671a2b28138ac5"
+    },
+    {
+      "path": "app/assets/batatas.bmp",
+      "sha256": "24349a9477e6bf209c8bfa8723a120fe410ec1d3d0a716b3e79c1b313d2c958d"
+    },
+    {
+      "path": "app/assets/calendar.bmp",
+      "sha256": "bfb5760c7fd4462e5ff5a18b217c96a2dd23278035741d823861137b9fe110a8"
+    },
+    {
+      "path": "app/assets/cross-docking.bmp",
+      "sha256": "6c55f35fea384e382453b68bae5a06ee37a31e0b4efa703ba84592e566796c6b"
+    },
+    {
+      "path": "app/assets/fundo_userform.jpg",
+      "sha256": "e59bb8401421fdb651ca00afe3777697fdbae03cb01fb25b219c10b2be231b27"
+    },
+    {
+      "path": "app/assets/fundo_userform2.jpg",
+      "sha256": "d7c0ba01c5543cd2cf6180b003ff9c4dff554442518765ef493d8a4199382499"
+    },
+    {
+      "path": "app/assets/panifresh.bmp",
+      "sha256": "a38342d2989ae0cfb8a85b150b1b6d99d277469e98aaa5502713aa4c2555f76f"
+    },
+    {
+      "path": "app/Backup/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "app/Backup/Tbl_Prog - Backup/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "app/backup modelo_consolidado/modelo_consolidado.xlsm",
+      "sha256": "e20a3ea66059c286b833aadb2fb361b030cd97e0022766f6ac2c03a5cb509c33"
+    },
+    {
+      "path": "app/backup modelo_consolidado/modelo_consolidado_OUTROS.xlsm",
+      "sha256": "a3b7bdacbf767fc3dc62816431f31cd6babe0d66da15583e288622f9b47707f3"
+    },
+    {
+      "path": "app/criacao_prog_v5_6_testes.xlsm",
+      "sha256": "a6ac22634f46887df4437dca593f2f59880209888d1e921180f6e9cebc8010ac"
+    },
+    {
+      "path": "app/modelo_consolidado.xlsm",
+      "sha256": "057bbdcff454bea9e25275e59316558a770ed17d4f5cba6bdca305d464635bd2"
+    },
+    {
+      "path": "app/modelo_consolidado_OUTROS.xlsm",
+      "sha256": "a3b7bdacbf767fc3dc62816431f31cd6babe0d66da15583e288622f9b47707f3"
+    },
+    {
+      "path": "app/modelo_template.xlsm",
+      "sha256": "044ed742c888a5f814bea96903b355107297fb20c675df5dd219084859e16b94"
+    },
+    {
+      "path": "app/Tbl_Dados_Lojas_Transportador/Tbl_Dados_Lojas_Transportador.xlsx",
+      "sha256": "4d6d6e972cc6b075824d7f8c4b27727c8ec3937e6bc5447f37e2ac342a8716d7"
+    },
+    {
+      "path": "app/Tbl_PontoFocal/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "app/Tbl_PontoFocal_Index.xlsx",
+      "sha256": "d8e6cb7ce5b256168be0874bc4c7d887e07f08a73f51e2dfababed2ff44ed0ba"
+    },
+    {
+      "path": "app/Tbl_Prog/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "app/Tbl_Prog_Testes/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "app/Tbl_Prog_Testes/Backup/Tbl_Prog - Backup/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "app/Templates/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "docs/MAPA_PACOTE_FT_NORMAL.md",
+      "sha256": "57376984f28bb6588925900ad84d634847985811d52a0f7b4e252ad8530a0b75"
+    },
+    {
+      "path": "docs/REVISAO_CONTEUDO_PUBLICO.md",
+      "sha256": "2339ed1b88de2203543f1d5379fe0a9960e50c079f0cbbcb9e49353bad164bb2"
+    },
+    {
+      "path": "docs/VALIDACAO_EXPORTACAO.md",
+      "sha256": "4be9568e7185c7e7dfb29de495a8c8493e17f6d0ad3273169cc0d6ba1bd654da"
+    },
+    {
+      "path": "examples/expected-output/Base FT - 01.10.26.xlsm",
+      "sha256": "629d064a8163918e08305987e5b803e5493e92a59d5f084d346efbe096820686"
+    },
+    {
+      "path": "examples/expected-output/Tbl_DistrMCD_FT_Sem40.xlsx",
+      "sha256": "9783451bd937cab7fd1491c1dea314b4bdd6b5a164f21c70aa6a31c62858f450"
+    },
+    {
+      "path": "examples/expected-output/Tbl_PontoFocal_Fat01_10_2026.xlsx",
+      "sha256": "89ee8079ca2647fc759621d118770fae757c963b8f843c054eb9ef6bbaa67fda"
+    },
+    {
+      "path": "examples/expected-output/Template FT - 01.10.26.xlsm",
+      "sha256": "7c24bc60732b448dc0c8b3cb220e61fdfaa00ff0b182e2b87eff302607042956"
+    },
+    {
+      "path": "LEIA-ME.md",
+      "sha256": "a52f855266d845fe33bcfa35c0254be4bb2aeb534cb31951c4945225201a8f4a"
+    },
+    {
+      "path": "README.md",
+      "sha256": "111a500cbbe108a57dbbb227752068719d674b4e37edbeced47103cbec4e5589"
+    },
+    {
+      "path": "README.pt-BR.md",
+      "sha256": "fb41237157545fe71d001b12936d63e3ac03d2df8d1e35c5db628d3373291c9b"
+    },
+    {
+      "path": "src/vba/consolidado/EstaPastaDeTrabalho.cls",
+      "sha256": "ae426ca31b45183a6c7e53e8888431248f64967ec507dcb34a04b4ee1c9e264a"
+    },
+    {
+      "path": "src/vba/consolidado/modObservacoesDinamicas.bas",
+      "sha256": "4b6729f5c6681c6b7f905abfba138ace16177a3d6863eee7e034383732a380ca"
+    },
+    {
+      "path": "src/vba/consolidado/modPortfolioPaths.bas",
+      "sha256": "a71f90705f059494c40c3c536944578c4cf8f20d06dfc22d91f4894f7b159720"
+    },
+    {
+      "path": "src/vba/consolidado/Módulo1.bas",
+      "sha256": "8b21a26bcdd5d925783fda613ca99e514d0f05163bb31d2623d4bfd79f3c1f45"
+    },
+    {
+      "path": "src/vba/consolidado/Módulo2.bas",
+      "sha256": "7f8f55778209cd127feb8c233e9e91aa298a3d6a098758e4d83e0bd7d3b85ba3"
+    },
+    {
+      "path": "src/vba/consolidado/Planilha1.cls",
+      "sha256": "904a408fc5d0144a946fceea516279723bf1152db5a5ffdfee2e6d726f972366"
+    },
+    {
+      "path": "src/vba/consolidado/Planilha3.cls",
+      "sha256": "e0bbf2068623b6fe31d5a761a820dffa49f5e9442fb484ff3f1043190e225c8b"
+    },
+    {
+      "path": "src/vba/consolidado/UserForm1.frm",
+      "sha256": "d4c8dfcfe9ac80bb5dc807c0fd5556fe48d98552e3468c22be5360a0afad6c15"
+    },
+    {
+      "path": "src/vba/consolidado_outros/EstaPastaDeTrabalho.cls",
+      "sha256": "cd221ae5e3d0ad3208f6775bf297302c12f7697e5e5ae5b8a6983869f614709b"
+    },
+    {
+      "path": "src/vba/consolidado_outros/modBatatas.bas",
+      "sha256": "19c4da345e37739dc8e5915c06707985c520d286ecdd12a3f53fbae84ec7e25c"
+    },
+    {
+      "path": "src/vba/consolidado_outros/modCross.bas",
+      "sha256": "9a0415b89f8a7d92acceb7d9fa431c79c1b9b87275145a70ec8ed497747c4290"
+    },
+    {
+      "path": "src/vba/consolidado_outros/modExportar.bas",
+      "sha256": "1dda90cafe4688aacd8854337d31fe2888d128d5706e9ce943c1b3fe9c8d760b"
+    },
+    {
+      "path": "src/vba/consolidado_outros/modPaniColetas.bas",
+      "sha256": "e5d625a2217b4814b8236f429828777b6e1fe7a25381af39b13a8a906edcc637"
+    },
+    {
+      "path": "src/vba/consolidado_outros/modPortfolioPaths.bas",
+      "sha256": "a71f90705f059494c40c3c536944578c4cf8f20d06dfc22d91f4894f7b159720"
+    },
+    {
+      "path": "src/vba/consolidado_outros/Módulo1.bas",
+      "sha256": "18232a1e4dc672451911ff4d1b98e38fe94176a4e9d177249bd8ace4f7f6ce35"
+    },
+    {
+      "path": "src/vba/consolidado_outros/Módulo2.bas",
+      "sha256": "bb04e38fb7606c36c8f76a35e9acb18d972de7b84cf44adee4e8eee1e604c1e0"
+    },
+    {
+      "path": "src/vba/consolidado_outros/Planilha1.cls",
+      "sha256": "904a408fc5d0144a946fceea516279723bf1152db5a5ffdfee2e6d726f972366"
+    },
+    {
+      "path": "src/vba/consolidado_outros/Planilha3.cls",
+      "sha256": "e0bbf2068623b6fe31d5a761a820dffa49f5e9442fb484ff3f1043190e225c8b"
+    },
+    {
+      "path": "src/vba/consolidado_outros/UserForm1.frm",
+      "sha256": "98293e88b6e724c3ac8b36635a0231923675c8ae4b5c81398cd4aebdcbcc52d0"
+    },
+    {
+      "path": "src/vba/exemplo_consolidado/EstaPastaDeTrabalho.cls",
+      "sha256": "7b2589a86baea0940ce0799be57efa83677bb395182368dc963caec11a3c0b8b"
+    },
+    {
+      "path": "src/vba/exemplo_consolidado/modObservacoesDinamicas.bas",
+      "sha256": "4b6729f5c6681c6b7f905abfba138ace16177a3d6863eee7e034383732a380ca"
+    },
+    {
+      "path": "src/vba/exemplo_consolidado/modPortfolioPaths.bas",
+      "sha256": "a71f90705f059494c40c3c536944578c4cf8f20d06dfc22d91f4894f7b159720"
+    },
+    {
+      "path": "src/vba/exemplo_consolidado/Módulo1.bas",
+      "sha256": "3c7acee572f1d78f1fcb07e23d9f2b3f2f11114b88ff95d9afdb28507753b83f"
+    },
+    {
+      "path": "src/vba/exemplo_consolidado/Módulo2.bas",
+      "sha256": "7f8f55778209cd127feb8c233e9e91aa298a3d6a098758e4d83e0bd7d3b85ba3"
+    },
+    {
+      "path": "src/vba/exemplo_consolidado/Planilha1.cls",
+      "sha256": "904a408fc5d0144a946fceea516279723bf1152db5a5ffdfee2e6d726f972366"
+    },
+    {
+      "path": "src/vba/exemplo_consolidado/Planilha3.cls",
+      "sha256": "e0bbf2068623b6fe31d5a761a820dffa49f5e9442fb484ff3f1043190e225c8b"
+    },
+    {
+      "path": "src/vba/exemplo_consolidado/UserForm1.frm",
+      "sha256": "2c4bd2a29d81e6920abc3054127b855b2a77c1680abdd07385bca411ca3729d0"
+    },
+    {
+      "path": "src/vba/exemplo_template/EstaPastaDeTrabalho.cls",
+      "sha256": "2f2220a8f9f01b3aee0defaa3c7da5c89e45e4525130d391c0d7c529fbdbfada"
+    },
+    {
+      "path": "src/vba/exemplo_template/modAtivacao.bas",
+      "sha256": "1700e4d6b2372761f42036fc605e3be2ff08439d00a3b5b13c541c8a9bff8c66"
+    },
+    {
+      "path": "src/vba/exemplo_template/modAtivacao_Helper.bas",
+      "sha256": "ca89e37658dd0dd3b245cac97ceb61a4694d996a02e522a1b57a0eacf430cb90"
+    },
+    {
+      "path": "src/vba/exemplo_template/modControle.bas",
+      "sha256": "c29e98d4b006f0597631ea832644d162d6d51eeb85a750a228cc031ad8ec4913"
+    },
+    {
+      "path": "src/vba/exemplo_template/modDadosExternos.bas",
+      "sha256": "ab4e3adfd1a464d8b6e0e13eea3d575ab7ad7c9b4ac88201ce94af650bb255db"
+    },
+    {
+      "path": "src/vba/exemplo_template/modFormatacao.bas",
+      "sha256": "3082252b5838ac11d829ee45923f564322186145cd0437b87364a005c37ca192"
+    },
+    {
+      "path": "src/vba/exemplo_template/modPortfolioPaths.bas",
+      "sha256": "a71f90705f059494c40c3c536944578c4cf8f20d06dfc22d91f4894f7b159720"
+    },
+    {
+      "path": "src/vba/exemplo_template/modUX.bas",
+      "sha256": "67fa98ca9647c8c93db28dbd3f063fb915e51a779a632cd0384bfc25529c134c"
+    },
+    {
+      "path": "src/vba/exemplo_template/Planilha1.cls",
+      "sha256": "904a408fc5d0144a946fceea516279723bf1152db5a5ffdfee2e6d726f972366"
+    },
+    {
+      "path": "src/vba/exemplo_template/Planilha2.cls",
+      "sha256": "7e976156299c6c1bb49ca584e958363365c5c15e24ec7acfc0da86074ebc5033"
+    },
+    {
+      "path": "src/vba/gerador/cDatePickerLabelHook.cls",
+      "sha256": "6b57972c10110f7809069e6e78b9a53c463df313eea1f9be79f07ccc96c9e849"
+    },
+    {
+      "path": "src/vba/gerador/cDatePickerManager.cls",
+      "sha256": "5621a4dffa41652253dc530f93734b693545bbcf2fb5a1af0527a22101ac3af7"
+    },
+    {
+      "path": "src/vba/gerador/EstaPastaDeTrabalho.cls",
+      "sha256": "3e26fabe9c188b2abe478860eff36aba151a79085667dae57acfc890a541e570"
+    },
+    {
+      "path": "src/vba/gerador/frmBatatas.frm",
+      "sha256": "3eb0a29ca1bcfefd8083892bcc86831070de8f7c8b58abe0dd9746d93df951e4"
+    },
+    {
+      "path": "src/vba/gerador/frmCross.frm",
+      "sha256": "1d6eb1c065163500b89b29b3517db74b2dfb2d568d242e2ab8e6fdd59a0948da"
+    },
+    {
+      "path": "src/vba/gerador/frmInstrucoes.frm",
+      "sha256": "d128be93cc459e6ae525053d1d27324b9dbe97c01544e83d88b973103107c07e"
+    },
+    {
+      "path": "src/vba/gerador/frmPaniColetas.frm",
+      "sha256": "d2010a3c239fdd96d6b1d8ac2b9485bc3b1936fcbe13db3038e8cd8d05c0d32e"
+    },
+    {
+      "path": "src/vba/gerador/M_DatePicker.bas",
+      "sha256": "bd768bdb31ce78181f00a6f0f5e2d94cd56e0a907d60f66443a60aa7de42248c"
+    },
+    {
+      "path": "src/vba/gerador/modBatatas.bas",
+      "sha256": "1d51750498ed4b7ee9c42639915fd0bfcfd212edaa1219c583b3db25effe42dd"
+    },
+    {
+      "path": "src/vba/gerador/modCalendarioForm.bas",
+      "sha256": "5c87ea349260c643a0cb74909115a39c90a06dc68dccb4d2e88157b8cefc1c3e"
+    },
+    {
+      "path": "src/vba/gerador/modCrossDocking.bas",
+      "sha256": "96f466eec55233a8516881147074f5da9bcee9022157facc7d7005127c5ff225"
+    },
+    {
+      "path": "src/vba/gerador/modIndicePontoFocal.bas",
+      "sha256": "be1e9dde922687e4588c1630ff61ab3da09084ead1c9161cf4bcebd476e6d434"
+    },
+    {
+      "path": "src/vba/gerador/modPaniColetas.bas",
+      "sha256": "4469bf93adfb6e8b3526e72083687360bf8d5b1cbea641444fab6a9f53aa1d13"
+    },
+    {
+      "path": "src/vba/gerador/modpontoFocal.bas",
+      "sha256": "429ee095bac557220402920afcaacc176b4bfab8a7f89ce70da002590e8db3cb"
+    },
+    {
+      "path": "src/vba/gerador/modPortfolioPaths.bas",
+      "sha256": "a71f90705f059494c40c3c536944578c4cf8f20d06dfc22d91f4894f7b159720"
+    },
+    {
+      "path": "src/vba/gerador/modtemplate.bas",
+      "sha256": "f0a5bcf2cd05535ea5fdf4f7fc8331829e067f059c57dceb9d2cb745eee8361c"
+    },
+    {
+      "path": "src/vba/gerador/Módulo1.bas",
+      "sha256": "938303f29ac1a516ac3394db20504082f89b890dc7dc5813c4ec9509d98007ab"
+    },
+    {
+      "path": "src/vba/gerador/Módulo2.bas",
+      "sha256": "34482b9e51267b5d282621bb4af86798a98e5c88510c0f0bc7dfb4b3b9c88ba1"
+    },
+    {
+      "path": "src/vba/gerador/Módulo3.bas",
+      "sha256": "daf051e1f5d13b71fd2910da8d11217b3d637569f5119a1e4d8dbd02c272abb8"
+    },
+    {
+      "path": "src/vba/gerador/Módulo4.bas",
+      "sha256": "74cfb61de7a1fc2fb5d9ff21359c56274f43e979514eb9e9838f595541175438"
+    },
+    {
+      "path": "src/vba/gerador/Módulo5.bas",
+      "sha256": "ac9783ef24f5edc75866e431a6a724c1e524709482e8d4905a6f39c16e45da1a"
+    },
+    {
+      "path": "src/vba/gerador/Planilha1.cls",
+      "sha256": "904a408fc5d0144a946fceea516279723bf1152db5a5ffdfee2e6d726f972366"
+    },
+    {
+      "path": "src/vba/gerador/Planilha2.cls",
+      "sha256": "7e976156299c6c1bb49ca584e958363365c5c15e24ec7acfc0da86074ebc5033"
+    },
+    {
+      "path": "src/vba/gerador/Planilha3.cls",
+      "sha256": "e0bbf2068623b6fe31d5a761a820dffa49f5e9442fb484ff3f1043190e225c8b"
+    },
+    {
+      "path": "src/vba/gerador/Planilha4.cls",
+      "sha256": "080eca176da6fa2b448945946805fc4973209559ba18f6c0497f76b1fb1275ca"
+    },
+    {
+      "path": "src/vba/gerador/Planilha5.cls",
+      "sha256": "936868c922ffad6a30441789f286ef557488af288b51402f87d792920bc2b0c7"
+    },
+    {
+      "path": "src/vba/gerador/Planilha6.cls",
+      "sha256": "c0c3a51200a1c953413689736047993531716e55a981e7ccd29b353095cfc20f"
+    },
+    {
+      "path": "src/vba/gerador/UF_DatePicker.frm",
+      "sha256": "4e9a60d24d5da2b727ecb8983be283c34fcb225fc5b84321477c6df33ba76852"
+    },
+    {
+      "path": "src/vba/gerador/UserForm1.frm",
+      "sha256": "ac7392c059933145c1984954f3a959b9ddff74d65cdb3083b67a63576a8be357"
+    },
+    {
+      "path": "src/vba/gerador/UserForm2.frm",
+      "sha256": "8faa9f73fa8c1c4121c20a56f3cf8ef4fc003cd9269b9697498e8d6764d08d7d"
+    },
+    {
+      "path": "src/vba/gerador/UserForm3.frm",
+      "sha256": "3121a1e1cdc2f94050bcfee1436410dfb48702e76d3ae533911ba5c242d61c25"
+    },
+    {
+      "path": "src/vba/gerador/UserForm4.frm",
+      "sha256": "6aa1d6d85d84d162522b73c05408caccc60bf3dcc6ce3045eaa5b950116d0a79"
+    },
+    {
+      "path": "src/vba/gerador/UserForm5.frm",
+      "sha256": "296a14d2571ed620c4b54e1ab6b525d377f884657d8dec230cd2569d40128962"
+    },
+    {
+      "path": "src/vba/gerador/UserForm6.frm",
+      "sha256": "714033dc9c7f54417a5aaf9236ebccd9d39dd28483de243edac06a75e1ea9dd5"
+    },
+    {
+      "path": "src/vba/INDICE.json",
+      "sha256": "93ebd2eaabb199d813cd36ed25ca295214162fb71c6cc5b08644995f145717af"
+    },
+    {
+      "path": "src/vba/LEIA-ME.md",
+      "sha256": "9dd513b099fe42f424fcdc97dd8db296946e4855bcf2e62a923dc07b20bb24c4"
+    },
+    {
+      "path": "src/vba/template_infolog/EstaPastaDeTrabalho.cls",
+      "sha256": "2f2220a8f9f01b3aee0defaa3c7da5c89e45e4525130d391c0d7c529fbdbfada"
+    },
+    {
+      "path": "src/vba/template_infolog/modAtivacao.bas",
+      "sha256": "1700e4d6b2372761f42036fc605e3be2ff08439d00a3b5b13c541c8a9bff8c66"
+    },
+    {
+      "path": "src/vba/template_infolog/modAtivacao_Helper.bas",
+      "sha256": "ca89e37658dd0dd3b245cac97ceb61a4694d996a02e522a1b57a0eacf430cb90"
+    },
+    {
+      "path": "src/vba/template_infolog/modControle.bas",
+      "sha256": "c29e98d4b006f0597631ea832644d162d6d51eeb85a750a228cc031ad8ec4913"
+    },
+    {
+      "path": "src/vba/template_infolog/modDadosExternos.bas",
+      "sha256": "ab4e3adfd1a464d8b6e0e13eea3d575ab7ad7c9b4ac88201ce94af650bb255db"
+    },
+    {
+      "path": "src/vba/template_infolog/modFormatacao.bas",
+      "sha256": "3082252b5838ac11d829ee45923f564322186145cd0437b87364a005c37ca192"
+    },
+    {
+      "path": "src/vba/template_infolog/modPortfolioPaths.bas",
+      "sha256": "a71f90705f059494c40c3c536944578c4cf8f20d06dfc22d91f4894f7b159720"
+    },
+    {
+      "path": "src/vba/template_infolog/modUX.bas",
+      "sha256": "67fa98ca9647c8c93db28dbd3f063fb915e51a779a632cd0384bfc25529c134c"
+    },
+    {
+      "path": "src/vba/template_infolog/Planilha1.cls",
+      "sha256": "904a408fc5d0144a946fceea516279723bf1152db5a5ffdfee2e6d726f972366"
+    },
+    {
+      "path": "src/vba/template_infolog/Planilha2.cls",
+      "sha256": "7e976156299c6c1bb49ca584e958363365c5c15e24ec7acfc0da86074ebc5033"
+    }
+  ],
+  "example_base_adjustment": {
+    "file": "examples/expected-output/Base FT - 01.10.26.xlsm",
+    "change": "Workbook_Open inativo apenas no exemplo permanente",
+    "preserved": "Todas as partes do pacote XLSM exceto xl/vbaProject.bin; Workbook_SheetChange mantido",
+    "verification": "Abriu no Excel, somente leitura, eventos habilitados; sem erro e sem gravação"
+  },
+  "distribution_export_adjustments": {
+    "date": "2026-10-20",
+    "legacy_sharing": false,
+    "engine_open_events": "Suspensos apenas durante abertura interna e restaurados",
+    "working_state": "Estado inicial restaurado apos preservar resultados fora do pacote",
+    "validation": "docs/VALIDACAO_EXPORTACAO.md"
+  },
+  "public_review": {
+    "date": "2026-10-20",
+    "report": "docs/REVISAO_CONTEUDO_PUBLICO.md",
+    "exported_modules": 81,
+    "binary_files_unchanged": true,
+    "macros_executed": false,
+    "ready_to_publish": false,
+    "notes": "Limpeza concluida; READMEs em en-GB e pt-BR preparados. Aplicacao preservada em portugues. Publicacao pendente."
+  },
+  "public_cleanup": {
+    "date": "2026-10-20",
+    "completed": true,
+    "report": "docs/REVISAO_CONTEUDO_PUBLICO.md",
+    "initial_state_restored": true,
+    "index_records": 0,
+    "business_macros_executed": false,
+    "native_workbook_open_checks": 12,
+    "pdf_visually_identical_pages": 15,
+    "source_modules": 81,
+    "published": false,
+    "translation_started": false
+  },
+  "documentation": {
+    "primary": "README.md",
+    "primary_language": "en-GB",
+    "portuguese": "README.pt-BR.md",
+    "application_language": "pt-BR",
+    "application_translation_planned": false,
+    "application_files_unchanged": true,
+    "published": false
+  }
+}
