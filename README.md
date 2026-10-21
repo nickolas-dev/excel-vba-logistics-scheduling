@@ -1,4 +1,4 @@
-# Logistics Scheduling with Excel and VBA
+# Transport Scheduling Automation | Excel & VBA
 
 [Português (Brasil)](README.pt-BR.md)
 
